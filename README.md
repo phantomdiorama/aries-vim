@@ -2,8 +2,18 @@
 
 ![Aries](aries.png)
 
-A minimal vim colorscheme based on [Rams](https://github.com/phantomdiorama/rams.vim) with highlights from [An Old Hope](https://github.com/jesseleite/an-old-hope-syntax-atom). 
+A light minimal vim colorscheme based on [Rams](https://github.com/stefanvanburen/rams.vim) with highlight colors from [An Old Hope](https://github.com/jesseleite/an-old-hope-syntax-atom). 
 
-Sheep + space = aries
+Sheep + space = Aries
 
+## Status
 Very much WIP
+
+## Requirements
+Choose a font with good **bold** definition.
+
+
+![screenshot](screenshot.png)
+
+![screenshot_rust](screenshot_rust
+) 
