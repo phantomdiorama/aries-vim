@@ -13,7 +13,6 @@ Very much WIP
 Choose a font with good **bold** definition.
 
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
 
-![screenshot_rust](screenshot_rust
-) 
+![screenshot_rust](screenshot_rust.PNG) 
